@@ -1,2 +1,2 @@
 FROM emanriziq/apacheweb
-ADD /var/www/html
+ADD . /var/www/html 
